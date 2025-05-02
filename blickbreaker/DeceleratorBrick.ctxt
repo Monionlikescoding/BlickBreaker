@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DeceleratorBrick
+comment1.params=x\ y\ width\ height\ lives\ points
+comment1.target=DeceleratorBrick(int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=ball
+comment2.target=void\ update(BallSprite)
+comment3.params=ball
+comment3.target=int\ isHit(Sprite)
+numComments=4

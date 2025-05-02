@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BallSprite
+comment1.params=x\ y
+comment1.target=BallSprite(int,\ int)
+comment2.params=
+comment2.target=int\ getDamage()
+comment3.params=a
+comment3.target=void\ setDamage(int)
+comment4.params=g2
+comment4.target=void\ draw(java.awt.Graphics2D)
+comment5.params=
+comment5.target=void\ resetSpeed()
+numComments=6

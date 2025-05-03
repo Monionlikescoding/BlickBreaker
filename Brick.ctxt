@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Brick
+comment1.params=x\ y\ width\ height
+comment1.target=Brick(int,\ int,\ int,\ int)
+comment10.params=pointsEarned
+comment10.target=void\ setPoints(int)
+comment11.params=g2
+comment11.target=void\ draw(java.awt.Graphics2D)
+comment12.params=ball
+comment12.target=void\ update(BallSprite)
+comment2.params=ball
+comment2.target=int\ isHit(Sprite)
+comment3.params=ball
+comment3.target=void\ updateBall(Sprite)
+comment4.params=
+comment4.target=int\ getHitLimit()
+comment5.params=hitLimit
+comment5.target=void\ setHitLimit(int)
+comment6.params=
+comment6.target=int\ getPointsEarned()
+comment7.params=a
+comment7.target=void\ setCooldown(int)
+comment8.params=
+comment8.target=int\ getCooldown()
+comment9.params=
+comment9.target=int\ getMaxCooldown()
+numComments=13
